@@ -406,8 +406,8 @@
       "url": "https://packages.unity.com"
     },
     "com.viroo": {
-      "version": "3.0.622",
-      "depth": 2,
+      "version": "3.0.625",
+      "depth": 3,
       "source": "registry",
       "dependencies": {
         "com.annulusgames.lit-motion": "2.0.1",
@@ -420,23 +420,23 @@
         "com.unity.xr.legacyinputhelpers": "2.1.12",
         "com.unity.xr.management": "4.5.1",
         "com.unity.xr.openxr": "1.14.3",
-        "com.viroo.shared.arena.native": "3.0.472",
-        "com.viroo.shared.communication.protocols.signalr": "3.0.472",
-        "com.viroo.shared.communication.serialization.json": "3.0.472",
-        "com.viroo.shared.communication.unity": "3.0.472",
-        "com.viroo.shared.library": "3.0.472",
-        "com.viroo.shared.library.content": "3.0.472",
-        "com.viroo.shared.library.sessions.core": "3.0.472",
-        "com.viroo.shared.library.sourcegenerators": "3.0.472",
-        "com.viroo.shared.metadata.applications": "3.0.472",
-        "com.viroo.shared.sessions.unity": "3.0.472",
+        "com.viroo.shared.arena.native": "3.0.623",
+        "com.viroo.shared.communication.protocols.signalr": "3.0.623",
+        "com.viroo.shared.communication.serialization.json": "3.0.623",
+        "com.viroo.shared.communication.unity": "3.0.623",
+        "com.viroo.shared.library": "3.0.623",
+        "com.viroo.shared.library.content": "3.0.623",
+        "com.viroo.shared.library.sessions.core": "3.0.623",
+        "com.viroo.shared.library.sourcegenerators": "3.0.623",
+        "com.viroo.shared.metadata.applications": "3.0.623",
+        "com.viroo.shared.sessions.unity": "3.0.623",
         "com.virtualware.bootstrap": "2.2.8",
         "com.virtualware.cache": "2.2.8",
         "com.virtualware.extensions.unity": "2.2.8",
         "com.virtualware.localization.default": "2.2.8",
         "com.virtualware.localization.resx": "2.2.8",
         "com.virtualware.localization.textmeshpro": "2.2.8",
-        "com.virtualware.networking": "3.0.622",
+        "com.virtualware.networking": "3.0.625",
         "com.virtualware.pooling": "2.2.8",
         "com.virtualware.rest.net": "2.2.8",
         "com.virtualware.serialization.json": "2.2.8",
@@ -451,73 +451,73 @@
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.interactions": {
-      "version": "3.0.622",
+      "version": "3.0.625",
       "depth": 2,
       "source": "registry",
       "dependencies": {
         "com.unity.timeline": "1.8.8",
-        "com.viroo": "3.0.622"
+        "com.viroo": "3.0.625"
       },
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.sceneloader": {
-      "version": "3.0.622",
+      "version": "3.0.625",
       "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.postprocessing": "3.4.0",
-        "com.viroo.sceneloader.scenecontext": "3.0.622",
-        "com.viroo.sceneloader.scenepublisher": "3.0.622",
-        "com.viroo.interactions": "3.0.622",
-        "com.viroo.vivox": "3.0.622",
+        "com.viroo.sceneloader.scenecontext": "3.0.625",
+        "com.viroo.sceneloader.scenepublisher": "3.0.625",
+        "com.viroo.interactions": "3.0.625",
+        "com.viroo.vivox": "3.0.625",
         "com.virtualware.download": "2.2.8",
         "com.virtualware.download.unity": "2.2.8"
       },
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.sceneloader.applicationpublisher": {
-      "version": "3.0.622",
+      "version": "3.0.625",
       "depth": 1,
       "source": "registry",
       "dependencies": {
-        "com.viroo.sceneloader.scenepublisher": "3.0.622"
+        "com.viroo.sceneloader.scenepublisher": "3.0.625"
       },
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.sceneloader.bootstrap.mock": {
-      "version": "3.0.622",
+      "version": "3.0.625",
       "depth": 1,
       "source": "registry",
       "dependencies": {
-        "com.viroo.interactions": "3.0.622",
-        "com.viroo.tracking.nmerso": "3.0.622",
-        "com.viroo.sceneloader.scenecontext": "3.0.622"
+        "com.viroo.interactions": "3.0.625",
+        "com.viroo.tracking.nmerso": "3.0.625",
+        "com.viroo.sceneloader.scenecontext": "3.0.625"
       },
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.sceneloader.scenecontext": {
-      "version": "3.0.622",
+      "version": "3.0.625",
       "depth": 2,
       "source": "registry",
       "dependencies": {
-        "com.viroo": "3.0.622",
-        "com.viroo.shared.communication.sceneloader.unity": "3.0.472"
+        "com.viroo": "3.0.625",
+        "com.viroo.shared.communication.sceneloader.unity": "3.0.623"
       },
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.sceneloader.scenepublisher": {
-      "version": "3.0.622",
+      "version": "3.0.625",
       "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.settings-manager": "2.1.0",
-        "com.viroo.sceneloader.scenecontext": "3.0.622",
+        "com.viroo.sceneloader.scenecontext": "3.0.625",
         "org.nuget.sharpyaml": "2.1.2"
       },
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.shared.arena": {
-      "version": "3.0.472",
+      "version": "3.0.623",
       "depth": 4,
       "source": "registry",
       "dependencies": {
@@ -526,11 +526,11 @@
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.shared.arena.native": {
-      "version": "3.0.472",
-      "depth": 3,
+      "version": "3.0.623",
+      "depth": 4,
       "source": "registry",
       "dependencies": {
-        "com.viroo.shared.arena": "3.0.472",
+        "com.viroo.shared.arena": "3.0.623",
         "org.nuget.system.text.json": "9.0.5",
         "org.nuget.testableio.system.io.abstractions.wrappers": "22.0.14",
         "org.nuget.system.security.accesscontrol": "6.0.1",
@@ -539,11 +539,11 @@
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.shared.arena.nmerso": {
-      "version": "3.0.472",
+      "version": "3.0.623",
       "depth": 3,
       "source": "registry",
       "dependencies": {
-        "com.viroo.shared.arena": "3.0.472",
+        "com.viroo.shared.arena": "3.0.623",
         "org.nuget.testableio.system.io.abstractions.wrappers": "22.0.14",
         "org.nuget.system.security.accesscontrol": "6.0.1",
         "org.nuget.testableio.system.io.abstractions": "22.0.14"
@@ -551,12 +551,12 @@
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.shared.communication": {
-      "version": "3.0.472",
-      "depth": 4,
+      "version": "3.0.623",
+      "depth": 5,
       "source": "registry",
       "dependencies": {
-        "com.viroo.shared.communication.core": "3.0.472",
-        "com.viroo.shared.library.core": "3.0.472",
+        "com.viroo.shared.communication.core": "3.0.623",
+        "com.viroo.shared.library.core": "3.0.623",
         "org.nuget.environmentabstractions": "5.0.0",
         "org.nuget.fluentresults": "3.16.0",
         "org.nuget.microsoft.extensions.configuration.abstractions": "9.0.5",
@@ -580,18 +580,18 @@
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.shared.communication.core": {
-      "version": "3.0.472",
-      "depth": 5,
+      "version": "3.0.623",
+      "depth": 6,
       "source": "registry",
       "dependencies": {},
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.shared.communication.protocols.signalr": {
-      "version": "3.0.472",
-      "depth": 3,
+      "version": "3.0.623",
+      "depth": 4,
       "source": "registry",
       "dependencies": {
-        "com.viroo.shared.communication": "3.0.472",
+        "com.viroo.shared.communication": "3.0.623",
         "org.nuget.microsoft.aspnetcore.signalr.client": "9.0.5",
         "org.nuget.environmentabstractions": "5.0.0",
         "org.nuget.fluentresults": "3.16.0",
@@ -616,12 +616,12 @@
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.shared.communication.sceneloader.unity": {
-      "version": "3.0.472",
+      "version": "3.0.623",
       "depth": 3,
       "source": "registry",
       "dependencies": {
-        "com.viroo.shared.communication.unity": "3.0.472",
-        "com.viroo.shared.metadata.scenes": "3.0.472",
+        "com.viroo.shared.communication.unity": "3.0.623",
+        "com.viroo.shared.metadata.scenes": "3.0.623",
         "org.nuget.system.text.json": "9.0.5",
         "org.nuget.microsoft.extensions.dependencyinjection.abstractions": "9.0.5",
         "org.nuget.microsoft.extensions.options": "9.0.5",
@@ -630,11 +630,11 @@
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.shared.communication.serialization.json": {
-      "version": "3.0.472",
-      "depth": 3,
+      "version": "3.0.623",
+      "depth": 4,
       "source": "registry",
       "dependencies": {
-        "com.viroo.shared.communication": "3.0.472",
+        "com.viroo.shared.communication": "3.0.623",
         "org.nuget.system.text.json": "9.0.5",
         "org.nuget.environmentabstractions": "5.0.0",
         "org.nuget.fluentresults": "3.16.0",
@@ -658,8 +658,8 @@
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.shared.communication.unity": {
-      "version": "3.0.472",
-      "depth": 3,
+      "version": "3.0.623",
+      "depth": 4,
       "source": "registry",
       "dependencies": {
         "org.nuget.system.text.json": "9.0.5"
@@ -667,12 +667,12 @@
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.shared.library": {
-      "version": "3.0.472",
-      "depth": 3,
+      "version": "3.0.623",
+      "depth": 4,
       "source": "registry",
       "dependencies": {
-        "com.viroo.shared.library.core": "3.0.472",
-        "com.viroo.shared.library.serialization": "3.0.472",
+        "com.viroo.shared.library.core": "3.0.623",
+        "com.viroo.shared.library.serialization": "3.0.623",
         "org.nuget.commandlineparser": "2.9.1",
         "org.nuget.microsoft.extensions.configuration.json": "9.0.5",
         "org.nuget.microsoft.extensions.localization.abstractions": "9.0.5",
@@ -700,11 +700,11 @@
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.shared.library.content": {
-      "version": "3.0.472",
-      "depth": 3,
+      "version": "3.0.623",
+      "depth": 4,
       "source": "registry",
       "dependencies": {
-        "com.viroo.shared.library.identity": "3.0.472",
+        "com.viroo.shared.library.identity": "3.0.623",
         "org.nuget.progressstream": "1.2.0",
         "org.nuget.testableio.system.io.abstractions": "22.0.14",
         "org.nuget.webdav.client": "2.9.0",
@@ -733,8 +733,8 @@
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.shared.library.core": {
-      "version": "3.0.472",
-      "depth": 4,
+      "version": "3.0.623",
+      "depth": 5,
       "source": "registry",
       "dependencies": {
         "org.nuget.environmentabstractions": "5.0.0",
@@ -760,13 +760,13 @@
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.shared.library.identity": {
-      "version": "3.0.472",
-      "depth": 4,
+      "version": "3.0.623",
+      "depth": 5,
       "source": "registry",
       "dependencies": {
-        "com.viroo.shared.library.core": "3.0.472",
-        "com.viroo.shared.library.identity.core": "3.0.472",
-        "com.viroo.shared.library.serialization": "3.0.472",
+        "com.viroo.shared.library.core": "3.0.623",
+        "com.viroo.shared.library.identity.core": "3.0.623",
+        "com.viroo.shared.library.serialization": "3.0.623",
         "org.nuget.duende.identitymodel.oidcclient": "6.0.1",
         "org.nuget.microsoft.extensions.hosting": "9.0.5",
         "org.nuget.microsoft.extensions.options.configurationextensions": "9.0.5",
@@ -792,15 +792,15 @@
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.shared.library.identity.core": {
-      "version": "3.0.472",
-      "depth": 5,
+      "version": "3.0.623",
+      "depth": 6,
       "source": "registry",
       "dependencies": {},
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.shared.library.serialization": {
-      "version": "3.0.472",
-      "depth": 4,
+      "version": "3.0.623",
+      "depth": 5,
       "source": "registry",
       "dependencies": {
         "org.nuget.microsoft.extensions.options": "9.0.5",
@@ -810,22 +810,22 @@
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.shared.library.sessions.core": {
-      "version": "3.0.472",
-      "depth": 3,
+      "version": "3.0.623",
+      "depth": 4,
       "source": "registry",
       "dependencies": {},
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.shared.library.sourcegenerators": {
-      "version": "3.0.472",
-      "depth": 3,
+      "version": "3.0.623",
+      "depth": 4,
       "source": "registry",
       "dependencies": {},
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.shared.metadata": {
-      "version": "3.0.472",
-      "depth": 4,
+      "version": "3.0.623",
+      "depth": 5,
       "source": "registry",
       "dependencies": {
         "org.nuget.microsoft.extensions.options": "9.0.5",
@@ -835,11 +835,11 @@
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.shared.metadata.applications": {
-      "version": "3.0.472",
-      "depth": 3,
+      "version": "3.0.623",
+      "depth": 4,
       "source": "registry",
       "dependencies": {
-        "com.viroo.shared.metadata": "3.0.472",
+        "com.viroo.shared.metadata": "3.0.623",
         "org.nuget.microsoft.extensions.dependencyinjection.abstractions": "9.0.5",
         "org.nuget.microsoft.extensions.options": "9.0.5",
         "org.nuget.sharpyaml": "2.1.2"
@@ -847,11 +847,11 @@
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.shared.metadata.scenes": {
-      "version": "3.0.472",
+      "version": "3.0.623",
       "depth": 4,
       "source": "registry",
       "dependencies": {
-        "com.viroo.shared.metadata": "3.0.472",
+        "com.viroo.shared.metadata": "3.0.623",
         "org.nuget.microsoft.extensions.dependencyinjection.abstractions": "9.0.5",
         "org.nuget.microsoft.extensions.options": "9.0.5",
         "org.nuget.sharpyaml": "2.1.2"
@@ -859,27 +859,27 @@
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.shared.sessions.unity": {
-      "version": "3.0.472",
-      "depth": 3,
+      "version": "3.0.623",
+      "depth": 4,
       "source": "registry",
       "dependencies": {
-        "com.viroo.shared.communication.unity": "3.0.472",
+        "com.viroo.shared.communication.unity": "3.0.623",
         "org.nuget.system.text.json": "9.0.5"
       },
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.studio": {
-      "version": "3.0.622",
+      "version": "3.0.625",
       "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.ai.navigation": "1.1.6",
         "com.unity.cinemachine": "2.10.3",
         "com.unity.postprocessing": "3.4.0",
-        "com.viroo.sceneloader": "3.0.622",
-        "com.viroo.sceneloader.applicationpublisher": "3.0.622",
-        "com.viroo.sceneloader.bootstrap.mock": "3.0.622",
-        "com.viroo.sceneloader.scenepublisher": "3.0.622"
+        "com.viroo.sceneloader": "3.0.625",
+        "com.viroo.sceneloader.applicationpublisher": "3.0.625",
+        "com.viroo.sceneloader.bootstrap.mock": "3.0.625",
+        "com.viroo.sceneloader.scenepublisher": "3.0.625"
       },
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
@@ -918,23 +918,23 @@
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.tracking.nmerso": {
-      "version": "3.0.622",
+      "version": "3.0.625",
       "depth": 2,
       "source": "registry",
       "dependencies": {
         "com.nmerso": "2.4.561",
-        "com.viroo": "3.0.622",
-        "com.viroo.shared.arena.nmerso": "3.0.472"
+        "com.viroo": "3.0.625",
+        "com.viroo.shared.arena.nmerso": "3.0.623"
       },
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.vivox": {
-      "version": "3.0.622",
+      "version": "3.0.625",
       "depth": 2,
       "source": "registry",
       "dependencies": {
         "com.unity.services.vivox": "16.6.0",
-        "com.viroo": "3.0.622"
+        "com.viroo": "3.0.625"
       },
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
@@ -1131,8 +1131,8 @@
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo/npm/registry"
     },
     "com.virtualware.networking": {
-      "version": "3.0.622",
-      "depth": 3,
+      "version": "3.0.625",
+      "depth": 4,
       "source": "registry",
       "dependencies": {
         "com.cysharp.unitask": "2.5.10",
@@ -1141,11 +1141,11 @@
         "com.virtualware.dependencyinjection.multiscene": "2.2.8",
         "com.virtualware.hosting": "2.2.8",
         "com.virtualware.serialization.json": "2.2.8",
-        "com.virtualware.shared.networking.protocols.signalr": "3.0.472",
-        "com.virtualware.shared.networking.protocols.socket": "3.0.472",
-        "com.virtualware.shared.networking.serialization.binary": "3.0.472",
-        "com.virtualware.shared.networking.serialization.protobuf": "3.0.472",
-        "com.virtualware.shared.networking.server.mock": "3.0.472",
+        "com.virtualware.shared.networking.protocols.signalr": "3.0.623",
+        "com.virtualware.shared.networking.protocols.socket": "3.0.623",
+        "com.virtualware.shared.networking.serialization.binary": "3.0.623",
+        "com.virtualware.shared.networking.serialization.protobuf": "3.0.623",
+        "com.virtualware.shared.networking.server.mock": "3.0.623",
         "com.virtualware.tickable": "2.2.8",
         "org.nuget.communitytoolkit.mvvm": "8.4.0",
         "org.nuget.microsoft.extensions.options.dataannotations": "9.0.6",
@@ -1227,8 +1227,8 @@
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo/npm/registry"
     },
     "com.virtualware.shared.networking": {
-      "version": "3.0.472",
-      "depth": 5,
+      "version": "3.0.623",
+      "depth": 6,
       "source": "registry",
       "dependencies": {
         "org.nuget.microsoft.extensions.dependencyinjection.abstractions": "9.0.5",
@@ -1238,12 +1238,12 @@
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.virtualware.shared.networking.protocols.signalr": {
-      "version": "3.0.472",
-      "depth": 4,
+      "version": "3.0.623",
+      "depth": 5,
       "source": "registry",
       "dependencies": {
-        "com.virtualware.shared.networking.protocols.signalr.shared": "3.0.472",
-        "com.virtualware.shared.networking": "3.0.472",
+        "com.virtualware.shared.networking.protocols.signalr.shared": "3.0.623",
+        "com.virtualware.shared.networking": "3.0.623",
         "org.nuget.microsoft.aspnetcore.signalr.client": "9.0.5",
         "org.nuget.microsoft.extensions.hosting.abstractions": "9.0.5",
         "org.nuget.microsoft.extensions.logging.configuration": "9.0.5",
@@ -1259,18 +1259,18 @@
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.virtualware.shared.networking.protocols.signalr.shared": {
-      "version": "3.0.472",
-      "depth": 5,
+      "version": "3.0.623",
+      "depth": 6,
       "source": "registry",
       "dependencies": {},
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.virtualware.shared.networking.protocols.socket": {
-      "version": "3.0.472",
-      "depth": 4,
+      "version": "3.0.623",
+      "depth": 5,
       "source": "registry",
       "dependencies": {
-        "com.virtualware.shared.networking": "3.0.472",
+        "com.virtualware.shared.networking": "3.0.623",
         "org.nuget.microsoft.extensions.dependencyinjection.abstractions": "9.0.5",
         "org.nuget.microsoft.extensions.logging.abstractions": "9.0.5",
         "org.nuget.microsoft.extensions.options": "9.0.5"
@@ -1278,11 +1278,11 @@
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.virtualware.shared.networking.serialization.binary": {
-      "version": "3.0.472",
-      "depth": 4,
+      "version": "3.0.623",
+      "depth": 5,
       "source": "registry",
       "dependencies": {
-        "com.virtualware.shared.networking": "3.0.472",
+        "com.virtualware.shared.networking": "3.0.623",
         "org.nuget.microsoft.extensions.dependencyinjection.abstractions": "9.0.5",
         "org.nuget.microsoft.extensions.logging.abstractions": "9.0.5",
         "org.nuget.microsoft.extensions.options": "9.0.5"
@@ -1290,11 +1290,11 @@
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.virtualware.shared.networking.serialization.protobuf": {
-      "version": "3.0.472",
-      "depth": 4,
+      "version": "3.0.623",
+      "depth": 5,
       "source": "registry",
       "dependencies": {
-        "com.virtualware.shared.networking": "3.0.472",
+        "com.virtualware.shared.networking": "3.0.623",
         "org.nuget.microsoft.extensions.hosting.abstractions": "9.0.5",
         "org.nuget.microsoft.extensions.objectpool": "9.0.5",
         "org.nuget.microsoft.extensions.options": "9.0.5",
@@ -1308,11 +1308,11 @@
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.virtualware.shared.networking.server.abstractions": {
-      "version": "3.0.472",
-      "depth": 5,
+      "version": "3.0.623",
+      "depth": 6,
       "source": "registry",
       "dependencies": {
-        "com.virtualware.shared.networking": "3.0.472",
+        "com.virtualware.shared.networking": "3.0.623",
         "org.nuget.microsoft.extensions.dependencyinjection.abstractions": "9.0.5",
         "org.nuget.microsoft.extensions.logging.abstractions": "9.0.5",
         "org.nuget.microsoft.extensions.options": "9.0.5"
@@ -1320,11 +1320,11 @@
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.virtualware.shared.networking.server.mock": {
-      "version": "3.0.472",
-      "depth": 4,
+      "version": "3.0.623",
+      "depth": 5,
       "source": "registry",
       "dependencies": {
-        "com.virtualware.shared.networking.server.abstractions": "3.0.472",
+        "com.virtualware.shared.networking.server.abstractions": "3.0.623",
         "org.nuget.microsoft.extensions.dependencyinjection.abstractions": "9.0.5",
         "org.nuget.microsoft.extensions.logging.abstractions": "9.0.5",
         "org.nuget.microsoft.extensions.options": "9.0.5"

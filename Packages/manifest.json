@@ -35,7 +35,7 @@
         "com.unity.modules.vr": "1.0.0",
         "com.unity.modules.wind": "1.0.0",
         "com.unity.modules.xr": "1.0.0",
-        "com.viroo.studio": "3.0.622",
+        "com.viroo.studio": "3.0.625",
         "com.viroo.studio.extensions.exercisebuilder": "3.0.16"
     },
     "scopedRegistries": [
