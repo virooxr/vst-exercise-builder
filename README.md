@@ -38,7 +38,7 @@ We recommend the following steps to get started quickly:
 1. **Run the Demo Scene:**  
    Open **`Assets/Scenes/Demo`** and explore the already created training module.  
 2. **Explore the Documentation:**  
-   Check out the **Viroo Exercise Builder** documentation in the package folder **`Packages/Viroo Studio Exercise Builder/README.md`**.
+   Check out the [**Viroo Exercise Builder** documentation](./Docs/README.md) in the Docs folder.
 
 ---
 
